@@ -1,8 +1,6 @@
 # Adversarial-Complementary-Learning-for-Weakly-Supervised-Object-Localization
 ACoL re-implementation by pytorch
-Prerequisites
-： 1.Python3.6
-   2.Pytorch
+Prerequisites:  Python3.6  and   Pytorch1.1
   
 Data Preparation
 : We use DET as our datasets
